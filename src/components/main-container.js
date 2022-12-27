@@ -65,7 +65,7 @@ export default class MainContainer extends Component {
         <div className="row">
           <div className="col s12">
             <div className="section">
-              <h3 className="header">Cryptocurrency Monitor</h3>
+              <h3 className="header">Hi ACS !,ReactJs App for test deployment in Amazon ECS</h3>
             </div>
           </div>
         </div>
